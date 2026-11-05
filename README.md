@@ -2,8 +2,8 @@
 
 The onboarding film, then the screens a new user meets:
 
-- **New user exploration 2**: the first open after sign-up. The film plays, then the page opens out of the ring.
-- **Watchlist view**: a later visit, before any capital is deployed. The rest of the dashboard stays on the page, folded.
+- **New user exploration**: the first open after sign-up. The film plays, then the page opens out of the ring.
+- **Return user watchlist view**: a later visit, before any capital is deployed. The rest of the dashboard stays on the page, folded.
 - **Demo account**: the dashboard on sample data, with Active Positions version 21.
 
 The column layout (Active Positions version 22) is a separate package: `Demo-account-columns`.
